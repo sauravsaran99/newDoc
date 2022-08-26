@@ -1,0 +1,68 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "saurav",
+      "age": "24",
+      "gender": "male",
+      "medicines": [
+        {
+          "name": "Abacavir",
+          "quantity": 2
+        },
+        {
+          "name": "Acyclovir",
+          "quantity": 1
+        },
+        {
+          "name": "Amifostine",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "kritika",
+      "age": "24",
+      "gender": "female",
+      "medicines": [
+        {
+          "name": "Abacavir",
+          "quantity": 2
+        },
+        {
+          "name": "Amifostine",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "rav",
+      "age": "22",
+      "gender": "male",
+      "medicines": [
+        {
+          "name": "Abacavir",
+          "quantity": 2
+        },
+        {
+          "name": "Alendronate",
+          "quantity": 1
+        },
+        {
+          "name": "Amifostine",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "name": "Dr. Saurav Saran",
+      "email": "saran@gmail.com",
+      "password": "Sau9471@",
+      "id": 1
+    }
+  ]
+}
